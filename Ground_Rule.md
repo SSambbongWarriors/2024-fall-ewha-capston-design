@@ -10,7 +10,8 @@
 👩‍💻 Develop
 -------------   
 > * main에서 작업하지 말기   
-> * 기능별로 branch 파서 작업하기, pr approve 최소 하루에 한 번 확인하기   
+> * 기능별로 branch 파서 작업하기, pr approve 최소 하루에 한 번 확인하기
+> * 함수명, 변수명 성격에 맞춰 Camel Case로 작성하기
 
 <br></br>
 🍖 Meeting
